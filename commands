@@ -1,0 +1,33 @@
+touch (file name) to create a fle in the git bash
+mkdit (directory name) to create a directory or folder
+rmdir (directory name) to delete a directory or it can called as folder
+rm (file name) to delete a file
+clear command to empty the scree
+vi or vim (file name) to store the content with the help of (I+esc
+:wq) and enter
+cat (file name) to read the content
+ls is to view the list of files and foldesrs
+git clone url command is used to pull repository from github to local system
+thrn view repository with the command ls and you'll view the file
+cd repository name and then touch file, vim file, cat file and ls
+to add the file:
+git add file name or .
+git commit -m "add any commit"
+git push
+
+to create a master file:
+git checkout -b "master"
+touch file
+vim file
+git add file name
+git commit -m "add ant commit"
+git add origin maaster url
+git push origin master
+
+and then the file which have created in local git will get pushed to the github
+
+to create a pom.xml file
+
+git archetype:generate
+then enter the number ; 3, and then enter
+
